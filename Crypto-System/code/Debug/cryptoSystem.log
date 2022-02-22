@@ -1,0 +1,3 @@
+﻿  cryptoSystem.cpp
+S:\5-th year\final project work\crypto system\cryptoSystem\cryptoSystem.cpp(9,19): warning C4101: 'message': unreferenced local variable
+  cryptoSystem.vcxproj -> S:\5-th year\final project work\crypto system\cryptoSystem\Debug\cryptoSystem.exe
